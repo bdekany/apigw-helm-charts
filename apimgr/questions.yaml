@@ -1,0 +1,10 @@
+questions:
+- variable: cassandra.host0
+  description: "IP or Hostname"
+  label: Cassandra Host FED
+- variable: imageCredentials.username
+  description: "Registry username"
+  label: username
+- variable:imageCredentials.password
+  description: "Registry Password"
+  label: password
